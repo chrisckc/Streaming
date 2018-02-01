@@ -2,7 +2,7 @@
 
 ## Description
 
-Streaming C++-style Output with Operator <<
+Streaming C++ style Output with Operator <<
 
 Refer to source website:
 http://arduiniana.org/libraries/streaming/
